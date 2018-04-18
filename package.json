@@ -1,6 +1,6 @@
 {
   "name": "dns-caa",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Check the DNS CAA for a given domain",
   "main": "index.js",
   "repository": {
