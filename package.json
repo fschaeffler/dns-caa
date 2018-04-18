@@ -1,0 +1,26 @@
+{
+  "name": "dns-caa",
+  "version": "1.0.1",
+  "description": "Check the DNS CAA for a given domain",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fschaeffler/dns-caa.git"
+  },
+  "keywords": [
+    "dns",
+    "caa",
+    "dnscaa",
+    "security"
+  ],
+  "author": "Florian Schaeffler <git@schf.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fschaeffler/dns-caa/issues"
+  },
+  "homepage": "https://github.com/fschaeffler/dns-caa#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "dns-socket": "^3.0.0"
+  }
+}
