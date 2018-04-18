@@ -4,7 +4,7 @@ This npm-packages checks for the existance of the security-feature DNS CAA.
 
 ## Installation
 
-`npm install dns-check --save`
+`npm install dns-caa --save`
 
 ## Usage
 
